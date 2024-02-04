@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A Abdul Azeez</h1>
+<h1 align="center">Hi 👋, I'm Abdul Azeez</h1>
 <h3 align="center">A enthusiastic and curious full stack web developer from India</h3>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IRFhWNqusUWbTsB1hQXhrQHaEI%26pid%3DApi&f=1&ipt=626585f6d6a82f2f7ed6637d26d107a557fb250ed319178cd227aafdaef7caba&ipo=images" style="width:75vw;height:auto";></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrios12&label=Profile%20views&color=0e75b6&style=flat" alt="kyrios12" /> </p>
