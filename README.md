@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyrios12" alt="kyrios12" /></a> </p>
 
-- 🔭 I’m currently working on **Music player project**
+- 🔭 I’m currently working on **Sorting Visualiser**
 
-- 🌱 I’m currently learning **Bootstrap, React, Spring Boot**
+- 🌱 I’m currently learning **Next js, Tailwind**
 
-- 🤝 I’m looking for help with **Music player project**
-
-- 💬 Ask me about **Java, Html, css, js**
+- 💬 Ask me about **Java, React, js**
 
 - 📫 How to reach me **saahilhumayun@gmail.com**
 
