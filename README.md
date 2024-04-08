@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sorting Visualiser**
 
-- 🌱 I’m currently learning **Next js, Tailwind**
+- 🌱 I’m currently learning **Next js, Tailwind CSS**
 
 - 💬 Ask me about **Java, React, js**
 
